@@ -1,0 +1,15 @@
+EASY METRO FINAL PRODUCTION AUDIT
+
+Stations: 243
+Line/branch definitions: 13
+Directed origin-destination journeys tested: 58806
+Unroutable journeys: 0
+Missing station references: 0
+Orphan station objects: 0
+Invalid landmark station references: 0
+
+Final northern Magenta sequence:
+Deepali Chowk → Madhuban Chowk → Uttari Pitampura - Prashant Vihar → Haiderpur Village → Haiderpur Badli Mor → Bhalaswa → Majlis Park
+
+Important:
+The app uses straight-line distance for the nearest-station feature. It should be hosted over HTTPS for reliable browser geolocation permission.
