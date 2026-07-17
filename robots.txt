@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mudassirhusain711-ux.github.io/easy-metro/sitemap.xml
